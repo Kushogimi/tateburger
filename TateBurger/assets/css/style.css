@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 :root {
   --background: #d00266;
   --stroke: #f550a0;
@@ -1068,5 +1072,12 @@ footer .content {
     top: -352px;
     max-width: 125px;
     transform: rotate(69deg);
+  }
+
+  .z6 {
+    position: absolute;
+    top: 230px;
+    right: 8px;
+    display: none;
   }
 }
