@@ -825,7 +825,7 @@ footer .content {
   .line3 {
     position: absolute;
     left: calc(70% - 245px);
-    top: -20px;
+    top: 48px;
     max-width: 350px;
     z-index: -1;
   }
@@ -838,7 +838,7 @@ footer .content {
     text-align: left;
     color: var(--white);
     padding-bottom: 50px;
-    padding-top: 100px;
+    padding-top: 165px;
   }
 
   .fil1 {
@@ -1022,6 +1022,7 @@ footer .content {
 
   .sticker8 {
     max-width: 100px;
+    z-index: -1;
   }
 
   .user_line2 {
@@ -1048,7 +1049,8 @@ footer .content {
   }
 
   .sticker9 {
-    max-width: 100px;
+    max-width: 77px;
+    z-index: -1;
   }
 
   .user_line3 {
@@ -1082,12 +1084,20 @@ footer .content {
   }
 
   .z9 {
-  position: absolute;
-  bottom: 30px;
-  left: 580px;
-  transform: rotate(115deg);
-  width: 57px;
-  height: 52px;
-  display: none;
-}
+    position: absolute;
+    bottom: 30px;
+    left: 580px;
+    transform: rotate(115deg);
+    width: 57px;
+    height: 52px;
+    display: none;
+  }
+
+  .elips2 {
+    max-height: 88px;
+    position: absolute;
+    right: 0;
+    top: 19px;
+    max-width: 350px;
+  }
 }
