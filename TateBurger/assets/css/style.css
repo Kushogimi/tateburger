@@ -824,7 +824,7 @@ footer .content {
 
   .line3 {
     position: absolute;
-    left: calc(90% - 245px);
+    left: calc(70% - 245px);
     top: -20px;
     max-width: 350px;
     z-index: -1;
