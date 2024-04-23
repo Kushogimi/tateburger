@@ -1080,4 +1080,14 @@ footer .content {
     right: 8px;
     display: none;
   }
+
+  .z9 {
+  position: absolute;
+  bottom: 30px;
+  left: 580px;
+  transform: rotate(115deg);
+  width: 57px;
+  height: 52px;
+  display: none;
+}
 }
